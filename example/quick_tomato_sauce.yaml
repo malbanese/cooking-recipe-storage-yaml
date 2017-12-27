@@ -1,0 +1,64 @@
+recipe:
+  - title: Quick Tomato Sauce
+  - note: This recipe is for a quick, very fresh / acidic tomato sauce.
+  - part:
+      title: Start cooking the pasta
+      ingredients:
+        - ingredient:
+            name: Pasta
+            weight: 1 pound
+            note: Any type of pasta will work with this simple sauce.
+      steps:
+      	- step: Bring pot of water, filled with pasta to a boil. Cook until al-dente (usually one minute under box-recommended cooking time).
+  - part:
+     title: Cook the sauce
+     ingredients:
+       - ingredient:
+           name: Basil
+           amount: 10+ leaves
+           note: Feel free to add more basil leaves to taste.
+       - ingredient:
+           name: Chili flakes
+           amount: 1/4 tsp
+           note: For a spicier sauce, add more chili flakes.
+       - ingredient:
+           name: Crushed Garlic
+           amount: 4 cloves
+       - ingredient:
+           name: Olive Oil
+           amount: 1 tbsp
+       - ingredient:
+           name: Whole canned tomatoes.
+           notes:
+             - Fresh, very ripe, tomatoes can be used instead.
+             - For the best tasting sauce, use high quality canned tomatoes. My favorites are typically D.O.P. labeled San Marzano.
+           amount: 16 oz
+       - ingredient: Salt
+       - ingredient:
+           name: Black Pepper
+           amount: 1/2 tsp
+           note: Always use freshly ground pepper.
+       - ingredient:
+           name: Parmasean Cheese
+           amount: 1/4 cup
+     steps:
+       - step: In a large bowl, hand crush the tomatoes.
+       - step:
+           instruction: Heat large skillet on medium heat. Once heated, add olive oil.
+           note: Be sure not to let olive oil get too hot (smoking point), as it becomes bitter.
+       - step:
+          instruction: When olive oil begins to shimmer, add chili flakes, 1/4 tsp black pepper, and crushed garlic. Cook until the garlic just begins to turn a golden brown.
+          note: Be careful of burning the garlic, and if it burns - start over.
+       - step:
+           instruction: Tear basil leaves into smaller pieces.
+           notes:
+             - Large leaves can be torn into 2-3 pieces, while smaller can either be left whole - or torn as well.
+             - Since this is a quick sauce, tearing the leaves helps to enhance the basil's flavor in the sauce.
+       - step: Add the crushed tomatoes, remaining 1/4 tsp black pepper, a pinch of salt, and basil to the skillet. Stir, and bring the mixture to a simmer.
+       - step:
+           instruction: Once the pasta is cooked to al-dente, add pasta and appromixately 1/4 cup of pasta water.
+           notes:
+             - Reserve additional pasta water incase the sauce appears to be dry, or needs to be further thickened in the next step.
+             - The addition of pasta water helps introduce starch, which makes the sauce stick to the pasta better.
+       - step: Turn the heat up to high, and stir for approximately one minute. Continue until enough water boils off - and the sauce starts sticking to the pasta.
+       - step: Stir in the parmasean cheese and any extra salt if needed. Enjoy!
